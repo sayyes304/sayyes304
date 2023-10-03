@@ -1,16 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=sayyes304&fontSize=50)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=say%20github🐱&fontSize=50">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyes304&layout=compact">
+</div>
 
-<!--
-**kangsei/kangsei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+	<p> 👀 SNS & Portfolio </p>
+</div>
+<div align=center>
+	<a href="https://velog.io/@sayyes304">
+		<img src="https://velog-readme-stats.vercel.app/api/badge?name=Velog" />
+	</a>
+	<br>
+</div>

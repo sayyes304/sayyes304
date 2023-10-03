@@ -9,10 +9,5 @@
 	<p> 👀 SNS & Portfolio </p>
 </div>
 <div align=center>
-	<a href="https://velog.io/@sayyes304">
-		<img src="https://velog-readme-stats.vercel.app/api/badge?name=Velog" />
-	</a>
-	<a href="https://velog.io/@sayyes304">
-		<img src="https://velog-readme-stats.vercel.app/api/badge?name=Velog" />
-	</a>
+	<a href="https://velog.io/@sayyes304"><img src="https://velog-readme-stats.vercel.app/api/badge?name=Velog"/></a>
 </div>

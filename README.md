@@ -3,6 +3,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyes304&layout=compact">
 </div>
 
+<br>
+
 <div align=center>
 	<p> 👀 SNS & Portfolio </p>
 </div>
@@ -10,5 +12,7 @@
 	<a href="https://velog.io/@sayyes304">
 		<img src="https://velog-readme-stats.vercel.app/api/badge?name=Velog" />
 	</a>
-	<br>
+	<a href="https://velog.io/@sayyes304">
+		<img src="https://velog-readme-stats.vercel.app/api/badge?name=Velog" />
+	</a>
 </div>

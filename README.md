@@ -7,7 +7,9 @@
 
  <h3> 👀 Site</h3>
   <a href="https://velog.io/@sayyes304"><img src="https://img.shields.io/badge/sayyes304-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsayyes304%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+  <a href="www.linkedin.com/in/sayyes304/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
+  <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small" alt="hits" />
 
 </div>
 
